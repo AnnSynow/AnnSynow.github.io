@@ -1,3 +1,1 @@
-# AnnSynow.github.io
-
-**Anna Synowiecka**
+  ## Anna Synowiecka
