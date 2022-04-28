@@ -1,12 +1,8 @@
-  # Anna Synowiecka
+ # Anna Synowiecka
   
-  ## Experience
-  
-  
-  
-  
-  
-  ## Projects
+ ## Experience
+ 
+ ## Projects
   
   
   
